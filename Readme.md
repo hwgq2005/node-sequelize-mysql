@@ -1,6 +1,6 @@
-# Node后台管理系统
+# Node.js后台管理系统
 
-> 基于sequelize开发的后台管理系统，采用Nodejs、Express、Sequelize、Mysql等相关技术。
+> 基于Sequelize开发的Node.js后台管理系统，采用Node.js、Express、Sequelize、Mysql等相关技术。
 
 ### 安装
 ```
