@@ -1,7 +1,6 @@
 # Node后台管理系统
 
-### 介绍
-- 技术栈：Nodejs、Express、Sequelize、Mysql
+> 基于sequelize开发的后台管理系统，采用Nodejs、Express、Sequelize、Mysql等相关技术。
 
 ### 安装
 ```
