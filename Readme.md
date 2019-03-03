@@ -2,15 +2,15 @@
 
 > 基于sequelize开发的后台管理系统，采用Nodejs、Express、Sequelize、Mysql等相关技术。
 
-### Install
+### 安装
 ```
 npm install
 ```
 
-### Start
+### 启动
 ```
 npm start
 ```
 
-### License
-MIT
+### 结尾
+本项目仅供大家参考，如有好的建议欢迎提出。
